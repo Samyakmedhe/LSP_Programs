@@ -1,7 +1,6 @@
   PID TTY           TIME CMD
     1 ??         1:11.36 /sbin/launchd
-  306 ??         0:26.17 /usr/libexec/logd
-  307 ??         0:00.07 /usr/libexec/smd
+  306 ??         0:26.17 /usr/libexec/log0:00.07 /usr/libexec/smd
   308 ??         0:03.08 /usr/libexec/UserEventAgent (System)
   310 ??         0:26.27 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
   311 ??         0:00.66 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
